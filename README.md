@@ -1,6 +1,9 @@
 # Email-Marketing-Dashnoard
 By addressing these objectives through your email marketing analysis dashboard, you'll be equipped with valuable insights to enhance your campaigns, engage your audience more effectively, and drive better results.
 
+in this project i've gathered the data from an authentic source then transform it into Power Bi to create informed visualization.
+
+
 1) People Signed up by Gender:
 
    Gain insights into the gender distribution of sign-ups, helping tailor email campaigns to specific demographics and optimize content for better engagement.
